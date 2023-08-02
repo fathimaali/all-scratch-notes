@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"724001ad42ba1423","x":-660,"y":-820,"width":400,"height":400,"type":"file","file":"Cloud Practitioner - CLF C01/3 Technology/Analytics/Amazon Athena.md"},
+		{"id":"dff19ed6850237ff","x":-660,"y":-300,"width":400,"height":400,"type":"file","file":"Cloud Practitioner - CLF C01/4 Billing and Pricing/Amazon QuickSight.md"},
+		{"id":"5cfdb34ae567e383","x":-180,"y":-820,"width":400,"height":400,"type":"file","file":"Cloud Practitioner - CLF C01/3 Technology/Analytics/Amazon Kinesis.md"}
+	],
+	"edges":[]
+}

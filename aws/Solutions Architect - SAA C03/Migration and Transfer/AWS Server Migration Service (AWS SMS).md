@@ -1,0 +1,1 @@
+**Product Update:** We recommend [AWS Application Migration Service (AWS MGN)](https://aws.amazon.com/application-migration-service/) as the primary migration service for lift-and-shift migrations. If AWS MGN is not available in a specific AWS Region, you can use AWS Server Migration Service (AWS SMS) APIs until March 31, 2023.

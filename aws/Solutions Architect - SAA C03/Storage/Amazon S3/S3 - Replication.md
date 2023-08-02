@@ -1,0 +1,1 @@
+Encryption is done like this : [[S3 - example (KMS)]] 

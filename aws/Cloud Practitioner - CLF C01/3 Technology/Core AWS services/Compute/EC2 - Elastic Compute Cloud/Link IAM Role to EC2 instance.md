@@ -1,0 +1,1 @@
+can attach an IAM role to an EC2 instance and the user ID of that instance will assume that IAM role.

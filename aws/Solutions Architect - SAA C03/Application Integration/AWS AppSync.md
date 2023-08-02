@@ -1,0 +1,1 @@
+[[Cloud Practitioner - CLF C01/3 Technology/Core AWS services/Other Services/AWS AppSync]]  
